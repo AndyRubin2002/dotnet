@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\bin\Debug\net8.0\BankMiniProject.exe
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\bin\Debug\net8.0\BankMiniProject.deps.json
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\bin\Debug\net8.0\BankMiniProject.runtimeconfig.json
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\bin\Debug\net8.0\BankMiniProject.dll
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\bin\Debug\net8.0\BankMiniProject.pdb
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.dll
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\refint\BankMiniProject.dll
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.pdb
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\BankMiniProject.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\BankMiniProject\obj\Debug\net8.0\ref\BankMiniProject.dll

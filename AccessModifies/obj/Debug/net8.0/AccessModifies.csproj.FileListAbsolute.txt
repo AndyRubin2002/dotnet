@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\AccessModifies\obj\Debug\net8.0\AccessModifies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\AccessModifies\obj\Debug\net8.0\AccessModifies.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\AccessModifies\obj\Debug\net8.0\AccessModifies.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\AccessModifies\obj\Debug\net8.0\AccessModifies.csproj.CoreCompileInputs.cache

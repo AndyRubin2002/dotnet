@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\bin\Debug\net8.0\Abstract01.exe
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\bin\Debug\net8.0\Abstract01.deps.json
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\bin\Debug\net8.0\Abstract01.runtimeconfig.json
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\bin\Debug\net8.0\Abstract01.dll
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\bin\Debug\net8.0\Abstract01.pdb
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.dll
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\refint\Abstract01.dll
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.pdb
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\Abstract01.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNet_24_72\DotNetProjects\Abstract01\obj\Debug\net8.0\ref\Abstract01.dll
